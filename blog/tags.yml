@@ -1,0 +1,14 @@
+welcome:
+  label: ウェルカム
+  permalink: /welcome
+  description: ウェルカムページ
+
+introduction:
+  label: はじめに
+  permalink: /introduction
+  description: はじめにの記事
+
+english-phrases:
+  label: 英語フレーズ
+  permalink: /english-phrases
+  description: 英語フレーズの記事
