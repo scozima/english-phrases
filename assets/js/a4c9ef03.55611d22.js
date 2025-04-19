@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenglish_phrases=self.webpackChunkenglish_phrases||[]).push([[5370],{4676:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/english-phrases/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenglish_phrases=self.webpackChunkenglish_phrases||[]).push([[9858],{5516:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

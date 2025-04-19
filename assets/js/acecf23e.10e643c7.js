@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenglish_phrases=self.webpackChunkenglish_phrases||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/english-phrases/blog","blogTitle":"Blog","authorsListPath":"/english-phrases/blog/authors"}')}}]);
